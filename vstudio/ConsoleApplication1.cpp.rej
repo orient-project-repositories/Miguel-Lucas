@@ -1,0 +1,6 @@
+diff a/vstudio/ConsoleApplication1.cpp b/vstudio/ConsoleApplication1.cpp	(rejected hunks)
+@@ -2,3 +3,4 @@
++// test
+ // Makes four repetitions of a cycle between motor setpoints:
+ // (410,682,703)
+ // (704,693,459)
